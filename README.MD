@@ -2,6 +2,8 @@
 
 [shinxbot2](https://github.com/Jayfeather233/shinxbot2)的功能开发最小单元。
 
+这个库不会与原库保持同步，只是作为一个最小单元的示范存在。
+
 开发前请确保能进行shinxbot2的编译。
 
 ### 添加功能
